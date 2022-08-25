@@ -1,8 +1,7 @@
-# 💫 Hi, 
-<h1 align="center"> This is <b> Bisrat Kebere </b> </br> </h1>
+# Hi 👋🏻, 
+<h1 align="center"> 💫 This is <b> Bisrat Kebere </b> </br> </h1>
 <p align="center">I love learning and creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
-
 <p align="center">🚀 I'm Always Learning.... </p>
 
 
