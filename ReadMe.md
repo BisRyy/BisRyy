@@ -72,6 +72,9 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
+# 📊 LeetCode Stats:
+[![BisRy's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=BisRy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BisRyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BisRyy&theme=dark&hide_border=false)<br/>
