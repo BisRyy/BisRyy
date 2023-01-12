@@ -89,3 +89,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)](https://visitcount.itsvg.in)
+<img src="https://gpvc.arturio.dev/bisry" alt="Profile views"/>
