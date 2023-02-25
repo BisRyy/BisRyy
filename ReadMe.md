@@ -96,4 +96,4 @@ alt="GitHub Commits Graph" /></a>
 
 ---
 [![Stalkers](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)](https://visitcount.itsvg.in)
-<img src="https://gpvc.arturio.dev/bisry" alt="Stalkers"/>
+<img src="https://gpvc.arturio.dev/bisry" alt="Stalkers" aligh="right"/>
