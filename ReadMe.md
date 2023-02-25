@@ -80,6 +80,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BisRyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BisRyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="http://www.github.com/cypghost"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cypghost&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" 
+alt="GitHub Commits Graph" /></a>
+
+ <a href="https://www.bisrat.tech">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisryy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+ </a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BisRyy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
