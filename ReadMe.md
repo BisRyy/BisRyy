@@ -7,7 +7,6 @@
 <p align="center"> <a href="https://bisrat.tech/resume" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> </p>
 
 # 🌐 Socials
-<img src="https://gpvc.arturio.dev/bisry" alt="Stalkers"/>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bisrat.Gr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bisrat_Gr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BisRy) 
@@ -96,5 +95,5 @@ alt="GitHub Commits Graph" /></a>
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)](https://visitcount.itsvg.in)
-
+[![Stalkers](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)](https://visitcount.itsvg.in)
+<img src="https://gpvc.arturio.dev/bisry" alt="Stalkers"/>
