@@ -99,5 +99,5 @@ alt="GitHub Commits Graph" /></a>
 
 ---
 [](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)
-<!-- [![Stalkers](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)](https://visitcount.itsvg.in) -->
-<img src="https://gpvc.arturio.dev/bisry" alt="Stalkers" aligh="right"/>
+[![Stalkers](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)](https://visitcount.itsvg.in) 
+<!-- <img src="https://gpvc.arturio.dev/bisry" alt="Stalkers" aligh="right"/> -->
