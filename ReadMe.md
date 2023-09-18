@@ -101,3 +101,4 @@ alt="GitHub Commits Graph" /></a>
 [](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)
 [![Stalkers](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)](https://visitcount.itsvg.in) 
 <!-- <img src="https://gpvc.arturio.dev/bisry" alt="Stalkers" aligh="right"/> -->
+[![wakatime](https://wakatime.com/badge/user/b00e3b92-8f8c-4eba-a6c5-a39f248c4941.svg)](https://wakatime.com/@b00e3b92-8f8c-4eba-a6c5-a39f248c4941)
