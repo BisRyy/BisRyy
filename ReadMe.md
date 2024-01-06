@@ -2,7 +2,8 @@
 <h1 align="center"> 💫 This is <b> Bisrat Kebere </b> </br> </h1>
 <p align="center">I love learning and creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
-<p align="center">🚀 I'm Always Learning.... </p>
+<p align="center">🚀 I'm Always Learning.... </p> <br>
+[![wakatime](https://wakatime.com/badge/user/b00e3b92-8f8c-4eba-a6c5-a39f248c4941.svg)](https://wakatime.com/@b00e3b92-8f8c-4eba-a6c5-a39f248c4941)
 
 <p align="center"> <a href="https://bisrat.tech/resume" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> </p>
 
@@ -79,8 +80,10 @@
 [![BisRy's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=BisRy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BisRyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BisRyy&theme=dark&hide_border=false)<br/>
+
+<!--
+![](https://github-readme-stats.vercel.app/api?username=BisRyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BisRyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
  <a href="https://www.bisrat.tech"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bisryy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" 
@@ -97,7 +100,8 @@ alt="GitHub Commits Graph" /></a>
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
 
----
+-->
+
 [](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)
 [![Stalkers](https://visitcount.itsvg.in/api?id=BisRyy&icon=0&color=8)](https://visitcount.itsvg.in) 
 <!-- <img src="https://gpvc.arturio.dev/bisry" alt="Stalkers" aligh="right"/> -->
