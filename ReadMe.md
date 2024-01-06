@@ -3,7 +3,6 @@
 <p align="center">I love learning and creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">🚀 I'm Always Learning.... </p> <br>
-[![wakatime](https://wakatime.com/badge/user/b00e3b92-8f8c-4eba-a6c5-a39f248c4941.svg)](https://wakatime.com/@b00e3b92-8f8c-4eba-a6c5-a39f248c4941)
 
 <p align="center"> <a href="https://bisrat.tech/resume" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> </p>
 
@@ -14,7 +13,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@BisRy) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/BisratGr) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Bisryyy) 
-
+[![wakatime](https://wakatime.com/badge/user/b00e3b92-8f8c-4eba-a6c5-a39f248c4941.svg)](https://wakatime.com/@b00e3b92-8f8c-4eba-a6c5-a39f248c4941)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
