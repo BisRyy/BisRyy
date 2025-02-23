@@ -1,10 +1,10 @@
 # Hi 👋🏻, 
-<h1 align="center"> 💫 This is <b> Bisrat Kebere </b> </br> </h1>
-<p align="center">I love learning and creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>
-<p align="center">🚀 I'm Always Learning.... </p> <br>
+<h1 align=""> 💫 This is <b> Bisrat Kebere </b> </br> </h1>
+<p align="">I love learning and creating new things ⚡</p>
+<p align="">Turning imagination into reality 🚀</p>
+<p align="">🚀 I'm Always Learning.... </p> <br>
 
-<p align="center"> <a href="https://bisry.me" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> </p>
+<p align=""> <a href="https://bisry.me" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> </p>
 
 # 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bisrat.Gr)
