@@ -1,4 +1,4 @@
-<h1 align=""> Hi 👋🏻, 💫 This is <b> Bisrat Kebere </b> </br> </h1>
+<h1 align=""> Hi 👋🏻, This is <b> Bisrat Kebere 💫 </b> </br> </h1>
 <p align="">I love learning and creating new things ⚡</p>
 <p align="">Turning imagination into reality 🚀</p>
 <p align="">🚀 I'm Always Learning.... </p> <br>
